@@ -2,10 +2,12 @@
 
 ##### 📈 My GitHub Stats
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dancastillo&theme=onedark" alt="GitHub Stats" />
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=dancastillo&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dancastillo&theme=ayu-mirage" alt="GitHub Stats" style="width: 48%; height: 200px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dancastillo&theme=onedark&row=2&column=4" alt="GitHub Trophies" style="width: 48%; height: 200px;" />
 </div>
+
+
 
 <br clear="both" />
 
